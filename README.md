@@ -162,5 +162,6 @@ Projeto desenvolvido com foco em:
 
 ---
 
-*Organize suas aventuras literárias com estilo vintage! 📚✨*
+*"Os livros são um tipo de mágica portátil."
+— Stephen King📚✨*
 
